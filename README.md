@@ -6,7 +6,7 @@ This project is a web application designed to manage and analyze cricket statist
 
 ## Features
 
-- **Player Management:** View details of players and their statistics.
+- **Player Management:** View details of players and additonal important statistics
 - **Team Management:** View details of teams and their performance.
 - **Match Management:** View details of matches and results.
 - **Umpire Management:** View details of umpires.
